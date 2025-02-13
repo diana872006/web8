@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Museu vintage del videojoc</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+    <header>
+        <div style="background-color: rgb(255, 255, 154);">
+            <h1 style="text-align: center;">Museu vintage del videojoc</h1>
+        </div>
+    </header>
+
+    <nav>
+        <div style="background-color: rgb(108, 241, 108);text-align: center;">
+            <span> El Museu -</span>
+            <span>Exposicions -</span>
+            <span>Visita virtual -</span>
+            <span>Blog -</span>
+            <span>Contacte</span>
+
+        </div>
+    </nav>
+
+    <div style="background-color: rgb(255, 68, 0);">
+    <h2> Quienes somos? </h2>
+    <p> Somos el primer gran museo del videojuego de españa.En el que podras encontrar mas de 300 equipos informaticos, 
+        recorriendo la increible historia de los videojuegos desde los años 60 hasta la actualidad, decubriendo autenticos
+         videojuegos miticos restaurados y conservados en el perfecto estado roiginal. Tambien apoyamos a nuevos creadores 
+         de videjojuegos restro, freeware e indie, creando mauinas arcade ex profeso con sus juegos.</p>
+    </div>
+
+   <span><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3116.974787804554!2d-0.573427423492062!3d38.62646106264409!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd622af236a401c1%3A0xefd8c871bc613cfe!2sMuseo%20del%20Videojuego%20Arcade%20Vintage!5e0!3m2!1ses-419!2ses!4v1737117794574!5m2!1ses-419!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></span>
+   <span><iframe width="560" height="315" src="https://www.youtube.com/embed/ROgcM9-N9jM?si=idjAWkGDdzSX_IuG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></span>
+
+    <footer class="pie" style="text-align: center;">
+        <mark>el sueño de todo informatico</mark>
+    </footer>
+
+</body>
+</html>
